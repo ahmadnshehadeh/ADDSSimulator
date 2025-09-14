@@ -1,0 +1,13 @@
+{
+  "name": "addssimulator",
+  "version": "1.0.0",
+  "description": "Cisco packet tracer-like application for simulating AD DS architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
